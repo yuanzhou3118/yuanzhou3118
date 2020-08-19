@@ -4,6 +4,6 @@
 <p align="center">PHP7, Laravel 6, MySQL, Javascript, ES6, Bootstrap, Vue, Python</p>
 <p align="center"><strong>Let's connect and grow.</strong></p>
 <p align="center">
-	<a href="https://github.com/arifulhb"><img src="https://img.shields.io/github/followers/arifulhb.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/site_yuanzhou"><img src="https://img.shields.io/twitter/follow/arifulhb?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://github.com/yuanzhou3118"><img src="https://img.shields.io/github/followers/yuanzhou3118.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/site_yuanzhou"><img src="https://img.shields.io/twitter/follow/site_yuanzhou?label=Twitter&style=social" alt="Twitter"></a>
 </p>
