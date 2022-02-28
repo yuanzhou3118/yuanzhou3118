@@ -3,7 +3,7 @@
 </br>
 
 - 👩‍🎓 I’m currently pursuing my Master Degree in Oregon State University.
-- 💻 I’m looking to 2022 Summer Full-time Intnernship on software engineer.
+- 💻 I’m looking to 2022 Summer Full-time Job on Software Engineer.
 - 💼 How to reach me: Email: <a href="mailto:zhouyuan3118@gmail.com">zhouyuan3118@gmail.com
 
 	
